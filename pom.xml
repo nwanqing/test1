@@ -42,13 +42,7 @@
 	
 	
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.apache.tomcat/apache-tomcat -->
-<dependency>
-    <groupId>org.apache.tomcat</groupId>
-    <artifactId>apache-tomcat</artifactId>
-    <version>6.0.18</version>
-   <type>pom</type> 
-</dependency>
+
 
 <!-- https://mvnrepository.com/artifact/org.directwebremoting/dwr --> 
 <dependency> 
